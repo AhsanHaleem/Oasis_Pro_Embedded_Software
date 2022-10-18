@@ -27,8 +27,6 @@ The objective of this project is to demonstrate my abilities to work with four d
 * Records
  * View Session History
 
-
-
 ### Team Members
 * Zachary Neath
 * Alex Coyne
