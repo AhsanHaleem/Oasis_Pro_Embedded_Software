@@ -8,7 +8,7 @@ The objective of this project is to demonstrate my abilities to work with four d
 
 ## Decription of the embedded software
 
-####Selectable Options on the device
+### Selectable Options on the device's screen
 * Sessions
   * Session Groups
     * 30 Minute
@@ -26,6 +26,17 @@ The objective of this project is to demonstrate my abilities to work with four d
     * 100hz
 * Records
   * View Session History
+
+### Interactable Elements
+* Oasis Pro Device
+  * Power Button
+  * Up Button
+  * Down Button
+  * Confirm Button
+* Admin Panel
+  * Battery Combobox
+  * Connection ComboBox
+
 
 ### Team Members
 * Zachary Neath
