@@ -6,9 +6,32 @@ The objective of this project is to demonstrate my abilities to work with four d
 
 ![image](https://user-images.githubusercontent.com/29932763/196058647-d4f84e0d-ebef-4a3f-82da-fd627852daf6.png)
 
-Team Members
-•	Zachary Neath
-•	Alex Coyne
-•	Ade Banjo
-•	Ahsan Haleem
+## Decription of the embedded software
+
+####Selectable Options on the device
+* Sessions
+  * Session Groups
+    * 30 Minute
+    * 45 Minute
+    * 3 hours
+    * User Designated
+  * Session Types
+    * MES
+    * Sub-delta
+    * Delta
+    * Theta
+    * Alpha
+    * SMR
+    * Beta
+    * 100hz
+* Records
+ * View Session History
+
+
+
+### Team Members
+* Zachary Neath
+* Alex Coyne
+* Ade Banjo
+* Ahsan Haleem
 
