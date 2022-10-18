@@ -6,3 +6,9 @@ The objective of this project is to demonstrate my abilities to work with four d
 
 ![image](https://user-images.githubusercontent.com/29932763/196058647-d4f84e0d-ebef-4a3f-82da-fd627852daf6.png)
 
+Team Members
+•	Zachary Neath
+•	Alex Coyne
+•	Ade Banjo
+•	Ahsan Haleem
+
